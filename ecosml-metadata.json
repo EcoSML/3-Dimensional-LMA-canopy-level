@@ -1,0 +1,8 @@
+{
+  "id": "df28c605-442e-41da-9671-c0078fa1f314",
+  "name": "3-Dimensional-LMA-canopy-level",
+  "overview": "PLSR coefficients to estimate canopy LMA from NEOP AOP imagery",
+  "organization": "uw-enspec",
+  "language": "python",
+  "owner": "adamc"
+}
